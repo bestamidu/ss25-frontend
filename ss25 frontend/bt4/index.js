@@ -14,6 +14,6 @@ function kiemTraSoNguyenTo(n) {
     return "là số nguyên tố";
   }
   
-  console.log(kiemTraSoNguyenTo(77)); 
+  console.log(kiemTraSoNguyenTo(7)); 
   console.log(kiemTraSoNguyenTo(633)); 
   console.log(kiemTraSoNguyenTo("kiwikiwi")); 
